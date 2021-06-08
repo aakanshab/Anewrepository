@@ -1,0 +1,39 @@
+About Confluence
+
+Create, collaborate, and organize all your work in one place. Confluence is a team workspace where knowledge and collaboration meet. Dynamic pages give your team a place to create, capture, and collaborate on any project or idea. Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.
+
+Confluence is for teams of any size and type, from those with mission-critical, high-stakes projects that need rigor behind their practices, to those that are looking for a space to build team culture and engage with one another in a more open and authentic way.
+
+Equipped with Confluence, your team 
+
+can make quick decisions, 
+
+gain alignment, and 
+
+accomplish more together. 
+
+Hosting options
+
+In the cloud, on your own infrastructure, or at a massive scale, Confluence has you covered. Take a look at the options below to discover which hosting option is right for your organization.
+
+Cloud
+
+With Confluence Cloud, we host your site for you – no servers, storage, or maintenance needed. You’ll get immediate access to our latest features with automatic upgrades, optimal performance, and elastic scale using AWS cloud hosting.
+
+Data Center
+
+Confluence Data Center is a self-managed solution providing organizations with configuration options to meet team collaboration demands. Read-only mode and deployment flexibility with IaaS providers like AWS and Azure allow for uninterrupted access and scale to meet your users' demands.
+
+Server
+
+Host Confluence Server on your own hardware and customize your setup however you'd like. This option is best for teams who need to manage all the details, enforce stricter requirements for data governance, and don't mind the additional complexity of hosting themselves.
+
+For Confluence Cloud, we offer 
+
+free, 
+
+standard, and 
+
+premium 
+
+plans for teams with different needs. For information about our Confluence Cloud subscription plans, see this overview.

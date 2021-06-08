@@ -1,0 +1,98 @@
+Confluence Spaces
+
+Before you begin this tutorial, sign up for your free trial of Confluence Cloud. This guide will help you set up your first project, so keep this tab open while you sign up. Go on, we'll wait here. 
+
+If you’re a Confluence Data Center or Server user, check out this tutorial on how to create and edit pages in Confluence.
+
+
+Step 1: Learn about spaces
+
+Your Confluence site is organized into spaces. Spaces are collections of related pages that you and other people in your team or organization work on together. Most organizations use a mix of team spaces, software project spaces, documentation spaces, and knowledge base spaces.
+
+Use team spaces to encourage team members to work together toward large-scale goals and OKRs. For example, you might create a team space for your Marketing team to align on OKRs, stay up-to-date on brand guidelines and messaging pillars, and gain insight into your marketing organization’s high-level strategy.
+
+Use software project spaces to keep track of individual initiatives and projects. For example, you might create a project space to serve as a single source of truth for everything related to a new feature your company is developing, from product requirements and feature specifications to meeting notes and retrospectives.
+
+Use documentation spaces to create and organize technical documentation for your products and services, so it’s easy for anyone to use.
+
+Use knowledge base spaces to store and surface answers to common questions, such as policy clarifications and IT solutions. If you have a subscription to Jira Service Management, you can integrate it with your Confluence site to share knowledge base articles with customers.
+
+Use your personal space as a sandbox to organize your notes, keep track of personal OKRs and goals, and draft proposals for projects before they make it to the roadmap. Connect with your team by writing blog posts to introduce yourself or share what you’re working on.
+
+Before you dive into creating a bunch of spaces, think about how your organization will use Confluence Cloud. Here are some common use cases:
+
+
+Description
+Examples
+
+Knowledge management
+
+Let Confluence be the source of truth for important information at your company. Some examples of knowledge management use cases are:
+
+Documenting HR and legal policies, best practices and procedures, and technical knowledge.
+
+Writing troubleshooting articles, tutorials, and how- tos and sharing them with customers.
+
+Communicating changes to products, APIs, and other services to customers.
+
+Here are a few ways you can set up your Confluence site for knowledge management:
+
+If you’re using Confluence to share internal policies and procedures, you might want to create a separate documentation space for each domain area (such as HR, Legal, and IT).
+
+If you’re using Confluence to share articles with your customers, consider creating a documentation space and a knowledge base space for each product or service.
+
+
+Project collaboration
+
+Collaborate with cross- functional partners to manage projects, launch strategic initiatives, roll out products and features, and more. Some examples of project collaboration use cases are:
+
+PMs, designers, and developers defining product requirements and technical specifications.
+
+Marketing and product creating a customer comms plan for an upcoming release.
+
+Researchers getting input on plans for a user study and sharing results with stakeholders.
+
+Here are a few ways you can set up your Confluence site for project collaboration:
+
+Create spaces for each product and create a page for each release cycle or launch.
+
+Create a space for each functional team and create a page for each major project or initiative.
+
+Take a blended approach. Use team spaces for big strategic initiatives (e.g., a major rebrand) and use project spaces for tactical projects and releases.
+
+Step 2: Create a space
+
+Once you know what kinds of spaces your organization will need, it’s time to create your first space.
+
+Go to your Confluence site.
+
+From the home screen, select Create Space.
+
+Select the type of space you’d like to create.
+
+Fill in the Space name, Space key, and other details.
+
+Set permissions for your space.
+
+Select Create.
+
+Once you’re done, you’ll land in the space Overview. This is where you can let people in your organization know what your space is for and who uses it. In the next step, you’ll learn how to customize the overview for your new space.
+
+Step 3: Customize your space overview
+
+Each space comes with an Overview that you can use to tell team members and other stakeholders all about the purpose of your space and what they will find in it. If you created your space from a space template, your overview will come with built-in features to help you make the most of your space. Even so, you may find adding your own touch lets you turn your overview into the perfect hub for everything your team needs.
+
+To customize your overview, select the pencil icon and edit the overview just like you would any other page.
+
+Try these tricks to make your overview pop:
+
+Upload a banner or logo to help people identify your space at a glance
+
+Describe your team’s mission and goals and add links to key pages
+
+Add a table of contents, team calendar, or roadmap
+
+For more information on how to craft a great overview page, check out the Confluence Cloud documentation or this blog post.
+
+Need a quick win? Get started fast with the team homepage template from Hubspot.
+
