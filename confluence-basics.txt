@@ -36,6 +36,7 @@ standard, and
 
 premium 
 
+<<<<<<< HEAD
 plans for teams with different needs. For information about our Confluence Cloud subscription plans, see this overview.
 
 This is a useful piece of content
@@ -50,3 +51,6 @@ standard, and
 premium 
 
 plans for teams with different needs. For information about our Confluence Cloud subscription plans, see this overview.
+=======
+plans for teams with different needs. For information about our Confluence Cloud subscription plans, see this overview.
+>>>>>>> parent of f966da1 (Update confluence-basics.txt)
