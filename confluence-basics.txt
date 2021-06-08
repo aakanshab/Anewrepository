@@ -39,3 +39,14 @@ premium
 plans for teams with different needs. For information about our Confluence Cloud subscription plans, see this overview.
 
 This is a useful piece of content
+Host Confluence Server on your own hardware and customize your setup however you'd like. This option is best for teams who need to manage all the details, enforce stricter requirements for data governance, and don't mind the additional complexity of hosting themselves.
+
+For Confluence Cloud, we offer 
+
+free, 
+
+standard, and 
+
+premium 
+
+plans for teams with different needs. For information about our Confluence Cloud subscription plans, see this overview.
